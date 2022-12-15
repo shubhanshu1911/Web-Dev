@@ -1,0 +1,14 @@
+body {
+    background-color: powderblue;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+h1,h2,h3{
+    color : #66bfbf;
+    font-size: 30px;                /*This is a good pratice to put all the CSS code in a aplhabatical order*/
+}
